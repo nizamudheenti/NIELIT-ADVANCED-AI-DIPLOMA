@@ -1,2 +1,2 @@
-# NIELIT ADVANCED AI DIPLOMA
- 
+# ML, DL, NLP, Python
+Advance AI programing 
